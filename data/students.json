@@ -1,0 +1,17 @@
+[
+    {
+        "student_id": 1001,
+        "name": "Farheen",
+        "age": 22,
+        "courses": [
+            {
+                "name": "biotechnology",
+                "duration": "Not specified"
+            },
+            {
+                "name": "python programming",
+                "duration": "4"
+            }
+        ]
+    }
+]
